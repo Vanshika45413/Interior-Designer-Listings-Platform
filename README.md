@@ -34,5 +34,5 @@ This is a full stack mobile web application that displays a list of active inter
 
 ---
 
-## 🗂️ Project Structure
-
+** 📽️ Video Demo:
+https://drive.google.com/file/d/1AiR7tpzByQKwEVYRoBS-wZcGyh134qUR/view?usp=drive_link

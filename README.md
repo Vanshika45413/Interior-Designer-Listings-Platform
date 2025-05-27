@@ -29,5 +29,3 @@ https://drive.google.com/file/d/1AiR7tpzByQKwEVYRoBS-wZcGyh134qUR/view?usp=drive
 - **Deployment**: Netlify (frontend), Render / Railway / Fly.io / VM (backend)
 
 ---
-
-** 📽️ Video Demo:

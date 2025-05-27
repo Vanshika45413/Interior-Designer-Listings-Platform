@@ -16,11 +16,7 @@ This is a full stack mobile web application that displays a list of active inter
 ---
 
 ## 🚀 Live Demo
-
-- **Frontend**: [https://your-frontend-demo-link.com](#)
-- **Backend API**: [https://your-backend-api-link.com/api/listings](#)
-
-> Replace these with your actual deployed URLs.
+https://drive.google.com/file/d/1AiR7tpzByQKwEVYRoBS-wZcGyh134qUR/view?usp=drive_link
 
 ---
 
@@ -35,4 +31,3 @@ This is a full stack mobile web application that displays a list of active inter
 ---
 
 ** 📽️ Video Demo:
-https://drive.google.com/file/d/1AiR7tpzByQKwEVYRoBS-wZcGyh134qUR/view?usp=drive_link
